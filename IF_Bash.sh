@@ -1,4 +1,4 @@
-#!/bin/bash..
+#!/bin/bash.
 
 echo "Enter te number please.";
 read n;
