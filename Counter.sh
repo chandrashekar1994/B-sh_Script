@@ -1,4 +1,4 @@
-#Counter using a Bash script.
+#Counter using a Bash script..
 #!/bin/bash
 for (( counter=10; counter>0; counter--))
 do
